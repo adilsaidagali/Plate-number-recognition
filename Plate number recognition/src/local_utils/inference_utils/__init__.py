@@ -1,0 +1,1 @@
+from src.local_utils.inference_utils.inference_ssd_mobilenetv2 import inference_ssd_mobilenetv2
